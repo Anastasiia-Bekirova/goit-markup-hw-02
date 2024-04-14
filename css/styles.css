@@ -103,6 +103,9 @@ address {
 .team {
     background-color: #f4f4fd;
 }
+.team .team-list-item {
+    background-color: #ffffff;
+}
 .team .team-mate-full-name {
     text-align: center;
 }
