@@ -62,8 +62,10 @@ h3 {
     color: #404bbf;
 }
 
-.page-header .contacts-list-link {
+.page-header .page-contacs {
     font-style: normal;
+}
+.page-header .contacts-list-link {
     color: #434455;
 }
 .page-header .contacts-list-link:hover,
@@ -108,6 +110,9 @@ h3 {
     text-align: center;
 }
 /*============PORTFOLIO=============*/
+.portfolio {
+    background-color: #ffffff;
+}
 /*=============FOOTER===============*/
 .page-footer {
     background-color: #2e2f42;
