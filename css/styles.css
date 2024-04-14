@@ -62,7 +62,7 @@ h3 {
     color: #404bbf;
 }
 
-.page-header .page-contacs {
+address {
     font-style: normal;
 }
 .page-header .contacts-list-link {
@@ -110,7 +110,7 @@ h3 {
     text-align: center;
 }
 /*============PORTFOLIO=============*/
-.portfolio {
+.portfolio-list-item {
     background-color: #ffffff;
 }
 /*=============FOOTER===============*/
